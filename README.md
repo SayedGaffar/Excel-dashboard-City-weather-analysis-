@@ -1,6 +1,6 @@
 
-#🌦️ City Weather Analysis Dashboard (Excel Project)
-📌 Objectives
+# City Weather Analysis Dashboard (Excel Project)
+## 📌 Objectives
 Demonstrate the end-to-end process of handling a data analytics project, from:
 
 Requirement gathering
@@ -15,7 +15,7 @@ Visualization and dashboard creation
 
 Equip users with practical skills to build an interactive Excel dashboard for effective data-driven storytelling.
 
-🛠 Tools Used
+## 🛠 Tools Used
 Microsoft Excel:
 
 PivotTables
@@ -36,7 +36,7 @@ Charts – Including pie charts, column/bar charts, and line graphs.
 
 Interactive Dashboard – Unified slicers controlling multiple visuals for user-driven analysis.
 
-📈 Key Features
+## 📈 Key Features
 Interactive slicers to filter data by:
 
 City
@@ -66,7 +66,7 @@ PivotTables and dynamic visualizations
 
 An interactive dashboard for actionable insights
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 Data cleaning and categorization in Excel
 
 Effective use of PivotTables and Charts
