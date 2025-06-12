@@ -75,3 +75,4 @@ Dashboard creation best practices
 
 Insight communication through visuals
 
+✅ Author: Sayed Abdul Gaffar 🎯 Role: Data Analyst Intern @ TechNest 📅 Project: Excel Dashboard
